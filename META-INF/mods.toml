@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="feur_elytra_wings"
+version="1.0.7"
+displayName="Feur Elytra Wings"
+displayURL="https://modrinth.com/user/Vayns"
+logoFile="logo.png"
+credits="Sky is the limit"
+authors="Vayns"
+description="Reach for the stars"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.feur_elytra_wings]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

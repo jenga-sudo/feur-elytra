@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "feur_elytra_wings:princess_wings_chestplate",
+    "feur_elytra_wings:phoenix_wings_chestplate",
+    "feur_elytra_wings:angel_wings_chestplate",
+    "feur_elytra_wings:black_dragon_wings_chestplate",
+    "feur_elytra_wings:white_dragon_wings_chestplate",
+    "feur_elytra_wings:steam_wings_chestplate",
+    "feur_elytra_wings:leaf_wings_chestplate",
+    "feur_elytra_wings:fairy_wings_chestplate",
+    "feur_elytra_wings:parrot_wings_chestplate",
+    "feur_elytra_wings:owl_wings_chestplate",
+    "feur_elytra_wings:river_wings_chestplate",
+    "feur_elytra_wings:light_wings_chestplate",
+    "feur_elytra_wings:fire_wings_chestplate",
+    "feur_elytra_wings:western_wings_chestplate",
+    "feur_elytra_wings:rainbow_wings_chestplate",
+    "feur_elytra_wings:flowering_wings_chestplate"
+  ]
+}
